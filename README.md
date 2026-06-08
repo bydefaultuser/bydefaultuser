@@ -77,20 +77,6 @@ MLOps & CI/CD           ████████████████░░�
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bydefaultuser&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bydefaultuser&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bydefaultuser&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## Featured Projects
 
 | Repo | What it does |
